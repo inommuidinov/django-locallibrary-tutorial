@@ -20,4 +20,4 @@ jobs:
      with:
           push: true
           tags: fedos3d/djangoapp:latest
-          file: Dockerfile.django
+          file: Dockerfile
