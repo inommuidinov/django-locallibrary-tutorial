@@ -19,5 +19,5 @@ jobs:
      uses: docker/build-push-action@v2
      with:
           push: true
-          tags: fedos3d/djangoapp:latest
+          tags: inommuidinov/djangoapp:latest
           file: Dockerfile
